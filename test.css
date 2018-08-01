@@ -1,0 +1,40 @@
+body {
+    background-color: #86a6d5;
+}
+
+h2 {
+    color: #5473d7;
+}
+
+.price {
+    color: #5473d7;
+}
+
+section {
+    background-color: white;
+    position: relative;
+    border: 1px solid gray;
+    height: 300px;
+    width: 50%;
+    border-radius: 5px;
+    left: 480px;
+}
+
+div {
+    text-align: center;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    width: 25%;
+    float: left;
+}
+
+div:hover {
+    background-color: #f6f6f6;
+}
+
+span {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;}
